@@ -1,5 +1,5 @@
 {
-  "name": "rf-switch",
+  "name": "RFSwitch",
   "description": "Use your Arduino to operate remote radio controlled shutters",
   "keywords": "rf, radio, wireless, shutter",
   "authors":
