@@ -13,9 +13,6 @@
     "url": "https://github.com/cronbm/rfswitch.git"
   },
   "version": "1.0.0",
-  "frameworks": 
-  [
-        "arduino"
-  ],
+  "frameworks": "arduino",
   "platforms": "*"
 }
