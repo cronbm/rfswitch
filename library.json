@@ -18,7 +18,8 @@
   "export": {
     "include": [
       "LICENSE",
-      "keywords.txt"
+      "keywords.txt",
+	  "RFSwitch"
     ]
   }
 }
