@@ -17,8 +17,6 @@
   License along with this library; if not, write to the Free Software
   Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA  02110-1301  USA
 */
-#ifndef _RFSwitch_hpp
-#define _RFSwitch_hpp
 
 #if defined(ARDUINO) && ARDUINO >= 100
     #include "Arduino.h"
@@ -93,5 +91,3 @@ class RFSwitch {
 
     Protocol protocol;
 };
-
-#endif
