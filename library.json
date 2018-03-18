@@ -19,7 +19,7 @@
     "include": [
       "LICENSE",
       "keywords.txt",
-	  "RFSwitch"
+      "RFSwitch"
     ]
   }
 }
