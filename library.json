@@ -1,0 +1,20 @@
+{
+  "name": "rf-switch",
+  "description": "Use your Arduino to operate remote radio controlled shutters",
+  "keywords": "rf, radio, wireless, shutter",
+  "authors":
+  {
+    "name": "Benedikt Michl",
+    "email": "cron144@yahoo.de",
+  },
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/cronbm/rfswitch.git"
+  },
+  "version": "1.0.0",
+  "frameworks": [
+        "arduino"
+  ],
+  "platforms": "*"
+}
